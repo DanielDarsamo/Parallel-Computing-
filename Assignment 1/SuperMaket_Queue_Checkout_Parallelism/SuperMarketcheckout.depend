@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717013466 source:c:\users\danield\desktop\#### computer science ( universidade sao tomas ) ####\university notes\5 semester\parallel computing\programs\supermarketcheckout\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+
+1717013466 source:c:\users\danield\desktop\#### computer science ( universidade sao tomas ) ####\university notes\5 semester\parallel computing\programs\supermaket_queue_checkout_parallelism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+
