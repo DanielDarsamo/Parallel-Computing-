@@ -11,3 +11,10 @@
 	<pthread.h>
 	<unistd.h>
 
+1718992592 source:c:\users\daniel\documents\repos\parallel-computing-\assignment 1\supermaket_queue_checkout_parallelism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<time.h>
+
